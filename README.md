@@ -56,9 +56,9 @@ The analysis answers business-relevant questions such as:
 ## Key Insights
 - Customer Spending Patterns:
   
-A small subset of customers contributes the majority of total revenue, indicating a high-value customer segment.
+   A small subset of customers contributes the majority of total revenue, indicating a high-value customer segment.
 
-Average invoice value varies significantly between customers, suggesting different purchasing behaviors.
+   Average invoice value varies significantly between customers, suggesting different purchasing behaviors.
 
 - Regional Purchasing Trends:
  
@@ -73,7 +73,9 @@ Average invoice value varies significantly between customers, suggesting differe
    Some genres have multiple top spenders, indicating shared popularity rather than niche appeal.
 
 - Track Popularity by Region:
+  
    The most purchased track differs across countries, showing regional differences in music taste.
+
    Track popularity is not globally uniform — local trends strongly influence sales.
 
 
