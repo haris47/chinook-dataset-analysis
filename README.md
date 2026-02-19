@@ -88,4 +88,4 @@ The analysis answers business-relevant questions such as:
 ---
 
 ## Author
-Haris Gavrias — SQL & Python Data Analyst
+Charalampos Gavrias — SQL & Python Data Analyst
